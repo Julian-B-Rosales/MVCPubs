@@ -1,0 +1,27 @@
+﻿header{
+    background-color:indianred;
+    width:100%;
+    top:0;
+    height:50px;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:30px;
+    color:antiquewhite;
+}
+
+#container{
+    top:50px;
+    background-color:blanchedalmond;
+    width:100%;
+    margin:auto;
+    height:450px;
+}
+
+footer{
+    background-color:indianred;
+    color:antiquewhite;
+    text-align:right;
+    top:500px;
+    width:100%;
+
+}
